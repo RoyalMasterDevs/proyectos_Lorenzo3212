@@ -50,3 +50,5 @@ print(not(4 > 6 )) # cambia la condición si es falso lo convierte e verdadero y
 
 
 print((not(7 != 7) and 6 > 5) and ('rozar' < 'rotar' or not(3 == 5)))
+
+print("hola mundo")
